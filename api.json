@@ -1,10 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/berserker",
     "maintainers": [
       {
@@ -18,305 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "berserker",
     "name": "Berserker",
-    "aliases": [
-      {
-        "name": "Berserkr",
-        "language": "Old Norse",
-        "meaning": "Bear-shirt or bare-chested"
-      },
-      {
-        "name": "Berserkers",
-        "language": "English",
-        "meaning": "Plural form"
-      },
-      {
-        "name": "Ulfhednar",
-        "language": "Old Norse",
-        "meaning": "Wolf-warriors (related but distinct)"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Human",
+    "subcategory": "Warrior",
     "tags": [
-      "norse-mythology",
-      "viking-warriors",
-      "battle-fury",
-      "odin",
-      "transformation",
-      "trance-state",
-      "historical"
+      "folklore",
+      "mythology"
     ],
-    "status": "historical",
+    "status": "documented",
     "description": {
-      "summary": "Norse warriors who fought in a trance-like fury, dedicated to Odin, exhibiting superhuman strength and immunity to pain while in their frenzied state.",
-      "full": "Berserkers were Norse warriors who fought in an uncontrollable, trance-like fury during the Viking Age. The name derives from 'bear-shirt' (wearing bear pelts) or possibly 'bare-chested'. Before battle, they worked themselves into a rage state characterized by superhuman strength, immunity to pain and fear, and frenzied killing that did not discriminate between friend and foe. Physical symptoms included shaking, chattering teeth, and extreme body heat, followed by deep fatigue after the battle-rage passed. Ulfhednar were similar wolf-warriors who wore wolf pelts. Theories for their behavior include ritualistic fury, consumption of Amanita muscaria mushrooms, genetic conditions, or psychological battle trance. Historically documented in Viking Age sagas and later outlawed in medieval Iceland due to their unpredictable violence."
+      "summary": "Berserkers were Norse warriors who fought in an uncontrollable, trance-like fury during the Viking Age.",
+      "full": "Berserkers were Norse warriors who fought in an uncontrollable, trance-like fury during the Viking Age. The name derives from \\\"bear-shirt\\\" (wearing bear pelts) or possibly \\\"bare-chested\\\". Before battle, they worked themselves into a rage state characterized by superhuman strength, immunity to pain and fear, and frenzied killing that did not discriminate between friend and foe. Physical symptoms included shaking, chattering teeth, and extreme body heat, followed by deep fatigue after the battle-rage passed. Ulfhednar were similar wolf-warriors who wore wolf pelts. Berserkers were dedicated to Odin and served as elite warriors and bodyguards during the Viking Age. They were later outlawed in medieval Iceland due to their unpredictable violence."
     },
     "etymology": {
-      "origin": "Old Norse 'berserkr', from 'ber' (bear) + 'serkr' (shirt/coat), or possibly 'berr' (bare) + 'serkr'",
-      "meaning": "Bear-shirt (wearing bear pelts) or bare-chested",
-      "first_use": "Circa 9th century in Old Norse sources"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Human",
-      "subtype": "Warrior",
-      "variant": "Norse/Viking"
+      "type": "Warrior",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "ulfhednar",
-        "name": "Ulfhednar",
-        "relationship": "variant",
-        "description": "Wolf-warriors similar to berserkers but wearing wolf pelts"
-      },
-      {
-        "id": "werewolf",
-        "name": "Werewolf",
-        "relationship": "similar",
-        "description": "Transformation into wolf-like rage state shares similarities"
-      },
-      {
-        "id": "valkyrie",
-        "name": "Valkyrie",
-        "relationship": "related",
-        "description": "Both associated with Odin and warfare"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "features": [
-        {
-          "feature": "Bear pelts",
-          "description": "Wore bear skins or fought bare-chested",
-          "frequency": "common"
-        },
-        {
-          "feature": "Shaking",
-          "description": "Trembling before battle rage",
-          "frequency": "common"
-        },
-        {
-          "feature": "Body heat",
-          "description": "Extreme heat during berserk state",
-          "frequency": "common"
-        },
-        {
-          "feature": "Chattering teeth",
-          "description": "Teeth chattering as rage builds",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Human warriors who entered altered states, sometimes wearing animal pelts"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Superhuman strength",
-        "description": "Displayed extraordinary strength in battle fury",
-        "frequency": "always",
-        "evidence_level": "historical/legendary"
-      },
-      {
-        "ability": "Pain immunity",
-        "description": "Appeared immune to pain and wounds during rage",
-        "frequency": "always",
-        "evidence_level": "historical/legendary"
-      },
-      {
-        "ability": "Fear immunity",
-        "description": "No fear of death or injury in berserk state",
-        "frequency": "always",
-        "evidence_level": "historical/legendary"
-      },
-      {
-        "ability": "Unstoppable fury",
-        "description": "Killed indiscriminately, could not be stopped until exhausted",
-        "frequency": "common",
-        "evidence_level": "historical/legendary"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "battle-time",
-      "disposition": "aggressive",
-      "social_structure": "warrior bands dedicated to Odin",
-      "patterns": [
-        "Worked into rage before battle",
-        "Killed friend and foe indiscriminately when enraged",
-        "Deep fatigue after battle rage passed",
-        "Dedicated to Odin",
-        "Sometimes served as elite bodyguards to chieftains"
-      ],
-      "symptoms": [
-        "Pre-battle: shaking, teeth chattering, body heat",
-        "During: superhuman strength, no pain/fear, frenzied killing",
-        "After: deep exhaustion and weakness"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Scandinavia and areas of Viking expansion during the Viking Age",
-      "continents": ["Europe"],
-      "countries": ["Norway", "Sweden", "Denmark", "Iceland"],
-      "regions": [
-        "Scandinavia",
-        "Iceland",
-        "Viking settlements"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "9th century",
+        "date": "Unknown",
         "circa": true,
-        "source": "Old Norse sagas and poetry"
-      },
-      "peak_period": "Viking Age (793-1066 CE)",
-      "decline": {
-        "date": "11th-12th century",
-        "reason": "Outlawed in medieval Iceland, Christianization of Scandinavia"
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Norse paganism, warrior cults dedicated to Odin",
-      "earliest_accounts": "Old Norse sagas from 9th century onward",
-      "folklore_connections": "Connected to Odin worship, animal transformation myths, warrior initiation rites"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "9th century",
-        "event": "Earliest written references",
-        "significance": "Berserkers mentioned in Old Norse poetry and sagas",
-        "source": "Various sagas"
-      },
-      {
-        "date": "Viking Age",
-        "event": "Peak activity",
-        "significance": "Berserkers served as elite warriors and bodyguards",
-        "source": "Historical records"
-      },
-      {
-        "date": "11th-12th century",
-        "event": "Outlawed in Iceland",
-        "significance": "Berserker behavior criminalized in medieval Icelandic law",
-        "source": "Grágás (medieval Icelandic law code)"
-      },
-      {
-        "date": "Modern era",
-        "event": "Etymology enters English",
-        "significance": "'Going berserk' becomes common phrase meaning uncontrolled fury",
-        "source": "English language evolution"
-      }
-    ],
-    "modern_era": "The term 'going berserk' survives in English meaning uncontrolled rage. Modern research explores possible explanations including PTSD, battle trance states, cultural conditioning, and psychoactive substances."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
   "theories": {
-    "historical": [
-      {
-        "name": "Ritualistic fury",
-        "description": "Trained psychological state achieved through ritual and conditioning",
-        "evidence_cited": ["Warrior cult practices", "Pre-battle rituals described in sagas"]
-      },
-      {
-        "name": "Amanita muscaria",
-        "description": "Consumption of fly agaric mushrooms to induce altered state",
-        "evidence_cited": ["Shamanic practices in Norse culture", "Psychoactive properties of mushroom"]
-      },
-      {
-        "name": "Genetic condition",
-        "description": "Possible hereditary condition causing rage episodes",
-        "evidence_cited": ["Familial patterns in sagas"]
-      },
-      {
-        "name": "Battle trance",
-        "description": "Psychological dissociative state induced by combat stress",
-        "evidence_cited": ["Modern PTSD research", "Combat psychology"]
-      },
-      {
-        "name": "Cultural conditioning",
-        "description": "Socially reinforced warrior behavior patterns",
-        "evidence_cited": ["Warrior cult structures", "Odin worship practices"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Norse warrior cults",
-        "Odin worship",
-        "Viking Age battle practices"
-      ],
-      "beliefs": "Berserkers were Odin's special warriors, chosen to fight with divine fury"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Norse sagas (various)",
-        "Modern fantasy literature",
-        "Historical fiction"
-      ],
-      "film_tv": [
-        "The Vikings (1958)",
-        "The 13th Warrior (1999)",
-        "Vikings TV series"
-      ],
-      "games": [
-        "Role-playing games (D&D berserker class)",
-        "Video games (God of War, Skyrim, etc.)"
-      ],
-      "other": [
-        "'Going berserk' common phrase",
-        "Military unit names",
-        "Heavy metal music themes"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "symbolism": {
-    "themes": [
-      "Primal fury",
-      "Warrior transformation",
-      "Odin's warriors",
-      "Loss of control",
-      "Battle ecstasy"
-    ],
-    "modern_interpretation": "Symbol of uncontrolled rage, warrior spirit, and the psychological costs of warfare"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "ynglinga-saga",
-      "type": "book",
-      "title": "Ynglinga saga",
-      "authors": ["Snorri Sturluson"],
-      "date": "c. 1225",
-      "notes": "Describes Odin's berserkers"
-    },
-    {
-      "id": "gragas",
-      "type": "legal code",
-      "title": "Grágás",
-      "date": "12th century",
-      "notes": "Medieval Icelandic law outlawing berserker behavior"
-    },
-    {
-      "id": "vatnsdaela-saga",
-      "type": "book",
-      "title": "Vatnsdœla saga",
-      "date": "13th century",
-      "notes": "Contains berserker accounts"
-    }
-  ]
+  "sources": []
 }
