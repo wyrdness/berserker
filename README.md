@@ -1,285 +1,222 @@
 # Berserker
 
-> *"Odin's warriors, consumed by battle fury, unstoppable in their rage."*
+> Old Norse warriors said to fight in a trance-like fury (berserkergang), sometimes ascribed bear-like or wolf-like ferocity. Documented in skaldic poetry and the sagas, and outlawed in early-medieval Scandinavia.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-historical-orange)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-historical-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `berserker` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Human / Warrior |
-| **Origin** | Norse/Viking culture |
-| **Primary Region** | Scandinavia |
-| **Status** | Historical warriors with legendary elements |
+| **Subcategory** | Trance-warrior tradition |
+| **First recorded** | c. 875 |
+| **Primary range** | Documented across the Viking-Age Norse world: Norway, Iceland, Sweden, Denmark, and the wider areas of Norse settlement and raiding (British Isles, Faroes, North Atlantic) |
+| **Status** | historical |
 
 ---
-
 ## Overview
 
-Berserkers were Norse warriors who fought in an uncontrollable, trance-like fury during the Viking Age. The name derives from "bear-shirt" (wearing bear pelts) or possibly "bare-chested". Before battle, they worked themselves into a rage state characterized by superhuman strength, immunity to pain and fear, and frenzied killing that did not discriminate between friend and foe.
-
-Physical symptoms included shaking, chattering teeth, and extreme body heat, followed by deep fatigue after the battle-rage passed. Ulfhednar were similar wolf-warriors who wore wolf pelts.
-
-Berserkers were dedicated to Odin and served as elite warriors and bodyguards during the Viking Age. They were later outlawed in medieval Iceland due to their unpredictable violence.
+Berserkers (Old Norse berserkr, plural berserkir) were elite warriors of the Viking Age and earlier, described in Old Norse literature as fighting in a trance-like rage called berserksgangr. The earliest surviving reference appears in the late-9th-century skaldic poem Haraldskvæði by Þórbjörn Hornklofi, composed in honour of King Harald Fairhair. Sagas including Snorri Sturluson's Ynglinga saga, Egils saga, Vatnsdæla saga, and Grettis saga describe berserkers howling like animals, biting their shield-rims, and being momentarily impervious to fire and edged weapons. They are closely associated with the úlfheðnar, 'wolf-coats', who wore wolf pelts. Later Christian and legal sources treated berserkers as outlaws and 'heathen devils'; Earl Eiríkr Hákonarson is recorded as outlawing berserker bands in Norway around 1015, and the Icelandic Grágás laws prescribed outlawry for the practice. Modern scholarship treats the berserker as a real historical role within Norse warrior culture whose more spectacular features are partly mythologised, with proposed explanations ranging from ritual hysteria and trauma states to alcohol or hallucinogen-induced trance.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| berserkr | Old Norse | 'bear-shirt' — warrior wearing a bear pelt |
+| berserkir | Old Norse | Plural of berserkr |
+| úlfheðnar | Old Norse | 'wolf-coats' — closely related wolf-skin warriors |
+| berserker | English |  |
 
-### Primary Name
-- **Berserker** — Old Norse "berserkr" from "ber" (bear) + "serkr" (shirt/coat), or possibly "berr" (bare) + "serkr". First appears circa 9th century.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Berserkr | Old Norse | "Bear-shirt" or "bare-chested" |
-| Ulfhednar | Old Norse | "Wolf-warriors" (related variant) |
-| Going berserk | Modern English | Phrase meaning uncontrolled fury |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Human
-├── Subtype: Warrior
-└── Variant: Norse/Viking
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Ulfhednar | Variant | Wolf-warriors similar to berserkers |
-| [Werewolf](/werewolves) | Similar | Transformation into wolf-like rage state |
-| [Valkyrie](/valkyrie) | Related | Both associated with Odin and warfare |
+- **Origin**: Old Norse berserkr, generally taken as a compound of ber- ('bear') + serkr ('shirt, coat'), thus 'bear-shirt'. Snorri Sturluson's 13th-century gloss as 'bare-shirt' (fighting without armour) is now generally rejected.
+- **Meaning**: 'Bear-shirted one'; one who wears a bear's pelt as a sign of warrior status.
+- **First use**: Late 9th century (Haraldskvæði); the modern English noun 'berserker' is attested from the early 19th century (Walter Scott).
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Úlfheðnar](../ulfhednar/) — _counterpart_: Closely related Norse 'wolf-coat' warriors
+- [Valkyrie](../valkyrie/) — _related_: Norse battle-spirits associated with Odin and warrior death
+- [Wild Hunt](../wild-hunt/) — _related_: Northern European nocturnal warrior procession
+- [Shapeshifters](../shapeshifters/) — _similar_: Norse skin-changers (hamrammr) overlap conceptually with berserkers
 
-### Physical Symptoms
+---
+## Physical Description
 
-#### Pre-Battle State
-- Shaking and trembling
-- Chattering teeth
-- Building body heat
-- Working into rage
+- **Coloration**: Dressed in animal pelts (bear, wolf), Sometimes described as bare-chested in saga embellishments
+- **Morphology**: Human warriors entering an altered behavioural state; not a physically distinct species. Some legendary accounts (e.g. Bödvar Bjarki in Hrólfs saga kraka) extend the motif into outright shapeshifting (hamrammr).
 
-#### During Battle Fury
-- Superhuman strength
-- Immunity to pain
-- No fear of death
-- Frenzied, indiscriminate killing
-- Extreme aggression
-
-#### Post-Battle State
-- Deep exhaustion
-- Profound weakness
-- Need for extended recovery
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Bear pelts | Wore bear skins into battle | Common |
-| Bare-chested | Sometimes fought without armor | Occasional |
-| Shaking | Pre-battle trembling | Common |
-| Body heat | Extreme temperature during rage | Common |
+|---|---|---|
+| Animal-skin garments | Bear pelts (berserkir) or wolf pelts (úlfheðnar) worn as warrior insignia and possibly cult dress | common |
+| Trance-onset signs | Shivering, chattering teeth, swelling/flushing of the face, then explosive rage according to Ynglinga saga | common |
+| Shield-biting | Sagas describe berserkers gnawing the rim of their shields before combat — depicted on the Lewis chessmen warrior pieces | occasional |
+| Howling vocalisation | Howling 'as wild animals' before charging the enemy line | common |
 
-### Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Superhuman strength | Extraordinary strength in battle fury | Historical/Legendary |
-| Pain immunity | Appeared immune to pain and wounds | Historical/Legendary |
-| Fear immunity | No fear of death or injury | Historical/Legendary |
-| Unstoppable fury | Could not be stopped until exhausted | Historical/Legendary |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Berserksgangr (battle fury) | Trance-like rage rendering the warrior insensible to pain and fear; followed by a period of weakness and exhaustion | always | documented |
+| Apparent imperviousness to weapons | Sagas describe berserkers as briefly impervious to fire and edged weapons during the rage; modern scholars treat this as literary embellishment of analgesia in trance states | common | folklore |
+| Shape-shifting (legendary) | Some saga figures (Bödvar Bjarki, Kveld-Úlfr) reportedly assumed bear or wolf form in battle | rare | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: During battle
-- **Disposition**: Aggressive in battle, served chieftains
-- **Social Structure**: Warrior bands dedicated to Odin
-- **Combat Pattern**: Indiscriminate killing when enraged
-- **Service**: Elite bodyguards to Norse chieftains
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: pack
+- **Habitat**: Norse warbands, King's retinues (especially Harald Fairhair), Iceland and mainland Scandinavia
 
 ---
+## Distribution
 
-## Historical Context
+Documented across the Viking-Age Norse world: Norway, Iceland, Sweden, Denmark, and the wider areas of Norse settlement and raiding (British Isles, Faroes, North Atlantic).
 
-### Viking Age Warriors
+### Hotspots
 
-Berserkers were documented during the Viking Age (793-1066 CE) as elite warriors who served Norse chieftains and kings. They were feared for their battle prowess but also their unpredictability.
-
-### Dedication to Odin
-
-Berserkers were devoted to Odin, the god of war, poetry, and fury. Their battle rage was seen as a gift from Odin, connecting them to divine martial power.
-
-### Outlawed Status
-
-By the 11th-12th century, berserker behavior was outlawed in medieval Iceland. The Grágás (Icelandic law code) criminalized their violent, uncontrolled actions.
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Norwegian royal court of Harald Fairhair | Western Norway, Norway |  | c. 870–930 |
+| Saga-era Iceland | Iceland, Iceland |  | c. 930–1100 |
 
 ---
-
-## Theories & Explanations
-
-### Historical Theories
-
-1. **Ritualistic Fury**
-   - Trained psychological state through ritual and conditioning
-   - Warrior cult practices
-   - Pre-battle rituals described in sagas
-
-2. **Amanita Muscaria Mushrooms**
-   - Consumption of fly agaric mushrooms
-   - Psychoactive properties induce altered states
-   - Shamanic practices in Norse culture
-
-3. **Genetic Condition**
-   - Possible hereditary condition causing rage episodes
-   - Familial patterns noted in sagas
-
-4. **Battle Trance**
-   - Psychological dissociative state from combat stress
-   - Similar to modern PTSD responses
-   - Combat psychology research
-
-5. **Cultural Conditioning**
-   - Socially reinforced warrior behavior
-   - Expectations within warrior cults
-   - Odin worship practices
-
----
-
 ## Historical Timeline
 
-### Origins
-
-Norse warrior cults and Odin worship in pre-Christian Scandinavia. Earliest written references from 9th century sagas.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| 9th century | Earliest references | Berserkers mentioned in Old Norse sagas |
-| Viking Age | Peak activity | Served as elite warriors and bodyguards |
-| 11th-12th c. | Outlawed in Iceland | Criminalized in Grágás law code |
-| Modern era | "Going berserk" | Phrase enters English language |
+|---|---|---|
+| c. 875 | Composition of Haraldskvæði by Þórbjörn Hornklofi describing berserkir and úlfheðnar at Harald Fairhair's court | Earliest surviving textual reference |
+| 1015 | Earl Eiríkr Hákonarson outlaws berserker bands in Norway | Documents the legal suppression of the practice |
+| c. 1118 | Grágás (Icelandic Gray Goose Laws) compiled, prescribing outlawry for berserkergang | Christian-era criminalisation of the practice |
+| c. 1230 | Snorri Sturluson completes Heimskringla, including the Ynglinga saga's classic description of berserker rage | Canonical literary description (chapter 6) |
+| 1784 | Samuel Ödmann proposes the Amanita muscaria (fly agaric) hypothesis for berserksgangr | First influential pharmacological theory |
+| 1956 | Howard Fabing publishes 'On Going Berserk: A Neurochemical Inquiry' | Mid-20th-century medical/pharmacological re-examination |
+| 2019 | Karsten Fatur publishes a hypothesis implicating Hyoscyamus niger (black henbane) rather than fly agaric | Recent peer-reviewed revival of the pharmacological debate |
+
+---
+## Notable Sightings
+
+### Berserkers at the Battle of Hafrsfjord (per Haraldskvæði) ⭐
+> **Date**: 0872-01-01  
+> **Location**: Hafrsfjord, southwestern Norway (traditional date c. 872)  
+> **Witnesses**: 0 (Skaldic poet (Þórbjörn Hornklofi, contemporary court poet))  
+Þórbjörn Hornklofi's Haraldskvæði describes the unification battle at Hafrsfjord, naming berserkir ('bear-shirts') and úlfheðnar ('wolf-coats') in King Harald Fairhair's force, howling and biting their shield-rims at the prow of the king's ships. The poem is the earliest surviving description of the warriors as a class.
+**Credibility**: medium — Foundational textual reference for the berserker tradition.
+**Sources**: Haraldskvæði, st. 8–11; Snorri Sturluson, Heimskringla — Haralds saga ins hárfagra
 
 ---
 
-## Cultural Significance
-
-### Norse Warrior Culture
-
-Berserkers represented the ultimate warrior ideal: fearless, powerful, and dedicated to Odin. They embodied the Norse valorization of martial prowess and battle fury.
-
-### Modern Legacy
-
-The phrase "going berserk" survives in English, meaning uncontrolled rage. Berserkers feature prominently in:
-- Fantasy literature and games (D&D berserker class)
-- Historical fiction about Vikings
-- Popular culture depictions of Norse warriors
-- Heavy metal music themes
+### Snorri's Ynglinga saga description of berserksgangr ⭐
+> **Date**: 1230-01-01  
+> **Location**: Composed in Iceland by Snorri Sturluson (Reykholt)  
+> **Witnesses**: 1 (Snorri Sturluson (saga author))  
+In chapter 6 of Ynglinga saga (Heimskringla), Snorri Sturluson describes Odin's warriors as fighting without armour, mad as dogs or wolves, biting their shields, strong as bears or bulls, killing with a single blow, and immune to fire and iron. This passage gives us the noun berserksgangr ('going berserk').
+**Credibility**: medium — The most widely cited literary description, but written ~300 years after the late-Viking peak.
+**Sources**: Snorri Sturluson, Heimskringla — Ynglinga saga ch. 6
 
 ---
+
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Torslunda helmet matrices | c. 600 | Bronze die plates from Torslunda, Öland (Sweden), used to make decorated helmet panels showing a one-eyed warrior with spears alongside a figure in a wolf or bear mask. | verified |
+| Lewis Chessmen 'berserker' rooks | c. 1150 | 12th-century walrus-ivory chess pieces found on the Isle of Lewis (Scotland), in which the rooks are carved as wild-eyed warriors biting their shield rims. | verified |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Haraldskvæði (Þórbjörn Hornklofi) | c. 875 | Late 9th-century encomium for King Harald Fairhair, providing the earliest reference to berserkir and úlfheðnar in his retinue. | verified |
+| Grettis saga Ásmundarsonar | c. 1300 | Icelandic saga containing the well-known fight in which Grettir kills the berserker brothers. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Hamrammr (skin-changing)** _(Saga tradition (Egils saga; Hrólfs saga kraka))_
+
+In some Norse traditions a berserker was a hamrammr, a man whose 'hide' or 'shape' could change so that his fetch (fylgja) fought as a bear or wolf while his body lay in trance.
+
+### Scientific
+
+**Ritual trance / self-induced hysteria** _(Anatoly Liberman, Neil Price)_
+
+Berserksgangr is a culturally patterned dissociative state induced through pre-battle ritual, sustained vocalisation, and group dynamics.
+
+**Pharmacological induction (Amanita muscaria or Hyoscyamus niger)** _(Samuel Ödmann (1784), Howard Fabing (1956), Karsten Fatur (2019))_
+
+Berserk fury was triggered by ingestion of psychoactive substances — Samuel Ödmann's 1784 Amanita muscaria hypothesis or Karsten Fatur's 2019 Hyoscyamus niger (black henbane) hypothesis.
+
+**Trauma / hyperarousal model** _(Jonathan Shay)_
+
+Berserksgangr is a culturally shaped expression of combat-related hyperarousal, comparable to the dissociative rage states described in modern PTSD.
+
+### Skeptical
+
+**Saga embellishment** _(Roberta Frank, Anatoly Liberman)_
+
+The most spectacular features (imperviousness to weapons, biting shields, shapeshifting) are 13th-century literary embellishments rather than historical fact, and tell us more about Christian saga writers than about Viking-Age warriors.
+
 
 ## Popular Culture
 
-### Literature
-- Norse sagas (Ynglinga saga, Vatnsdœla saga)
-- Modern fantasy literature
-- Historical fiction
+**Literature**: Achilles in Vietnam: Combat Trauma and the Undoing of Character — Jonathan Shay (1994); The Viking Way: Magic and Mind in Late Iron Age Scandinavia — Neil Price (2002)
 
-### Film/TV
-- *The Vikings* (1958)
-- *The 13th Warrior* (1999)
-- *Vikings* TV series
+**Film / TV**: The 13th Warrior (1999); Vikings (History Channel, 2013–2020); The Northman (2022)
 
-### Games
-- Dungeons & Dragons (berserker class)
-- Video games (Skyrim, God of War)
-- Role-playing games
+**Games**: God of War Ragnarök — Berserker boss series (2022); Warhammer 40,000 — World Eaters Berzerkers (sci-fi reuse); Berserk (manga) — Kentaro Miura
 
-### Other
-- "Going berserk" phrase
-- Military unit names
-- Heavy metal music
+**Music**: Berserker — Gary Numan (1984); Berserker — Amon Amarth (2019)
+
+**Other**: The English verb 'go berserk' (in common use since the early 19th century)
 
 ---
+## Research
 
-## Modern Research
+### Researchers
 
-Contemporary scholars explore berserker phenomena through:
-- **Psychology**: Battle trance states, dissociation, PTSD
-- **Pharmacology**: Psychoactive substance effects
-- **Anthropology**: Warrior cult practices
-- **History**: Viking Age warfare and society
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Neil Price | Uppsala University (archaeology) | Archaeology of Norse cult and warrior practice; The Viking Way | 1990s–present |
+| Anatoly Liberman | University of Minnesota (Germanic philology) | Etymology and philology of berserkr, including the 'bear-shirt' interpretation | 1980s–present |
+| Roberta Frank | Yale University (Old Norse literature) | Critical analysis of saga representations of berserkers | 1980s–present |
+| Jonathan Shay | Tufts University / U.S. Department of Veterans Affairs | Trauma and warrior-rage framework in Achilles in Vietnam | 1990s–2010s |
+| Karsten Fatur | University of Ljubljana (ethnobotany) | Henbane (Hyoscyamus niger) hypothesis for berserksgangr (2019) | 2010s–present |
 
----
+### Organizations
 
-## API Reference
+- [Statens historiska museum (Swedish History Museum)](https://historiska.se) — Vendel- and Viking-Age artefacts including the Torslunda matrices
+- [British Museum](https://www.britishmuseum.org) — Lewis Chessmen and other Norse artefacts
 
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const berserker = await wyrd.getPhenomenon('berserker');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/berserker/main/api.json
-```
+Active interdisciplinary research at the intersection of Old Norse philology, archaeology, anthropology of altered states, and ethnobotany continues to refine the picture of who berserkers were and what berserksgangr meant in practice.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Sturluson, S. (c. 1225). *Ynglinga saga*
-- *Grágás* (12th century) — Medieval Icelandic law
-- *Vatnsdœla saga* (13th century)
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
